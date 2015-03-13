@@ -1,0 +1,1 @@
+"./LaunchPad_SPI_Send.obj" "../lnk_msp430g2553.cmd" -l"libc.a" 
